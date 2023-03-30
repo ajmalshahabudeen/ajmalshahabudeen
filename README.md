@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ajmalshahabudeen<br>👀 I’m interested in full-stack developing<br>🌱 I’m currently learning Django<br>💞️ I’m looking to collaborate on web3<br>📫 How to reach me https://www.linkedin.com/in/ajmalshahabudeen<br>📫 How to reach me ajmalshahabudeen@gmail.com<br>
+👋 Hi, I’m @ajmalshahabudeen<br>👀 I’m interested in full-stack developing<br>🌱 I’m currently learning Django<br>💞️ I’m looking to collaborate on web3<br>📫 How to reach me https://www.linkedin.com/in/ajmalshahabudeen<br>📫 Mail me at ajmalshahabudeen@gmail.com<br>
 
 
 ## 🌐 Socials:
