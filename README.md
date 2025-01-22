@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ajmalshahabudeen<br>👀 I’m interested in full-stack developing<br>🌱 Hire me @ https://www.upwork.com/workwith/ajmalshahabudeen<br>💞️ I’m looking to collaborate on web3<br>📫 How to reach me https://www.linkedin.com/in/ajmalshahabudeen<br>📧 Mail me at ajmalshahabudeen@gmail.com
+👋 Hi, I’m @ajmalshahabudeen<br>👀 I’m interested in full-stack developing<br>🌱 Hire me @ [upwork/ajmalshahabudeen](https://www.upwork.com/freelancers/ajmalshahabudeen?mp_source=share)<br>💞️ I’m looking to collaborate on web3<br>📫 How to reach me https://www.linkedin.com/in/ajmalshahabudeen<br>📧 Mail me at ajmalshahabudeen@gmail.com
 
 
 ## 🌐 Socials:
